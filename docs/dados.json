@@ -1,0 +1,72 @@
+[{
+    "label": "President",
+    "name": "John Doe",
+    "descricao": "Exemplo descricao",
+    "children": [{
+        "name" : "Jane Smith",
+        "label": "Vice President of Administration",
+        "descricao": "Exemplo descricao",
+        "children": [{
+            "name": "Peter West",
+            "label": "Director of Finance",
+            "descricao": "Exemplo descricao"
+        }, {
+            "name" : "Sarah Jones",
+            "label": "Director of Human Resources",
+            "descricao": "Exemplo descricao"
+        }]
+    }, {
+        "name" : "Richard Easton",
+        "label": "Vice President of Operations",
+        "descricao": "Exemplo descricao",
+        "children": [{
+            "name" : "Amy Thomas",
+            "label": "Director of Distribution",
+            "descricao": "Exemplo descricao"
+        }, {
+            "name" : "Greg Li",
+            "label": "Director of Customer Service",
+            "descricao": "Exemplo descricao",
+            "children": [{
+                "name" : "Laronda Phillips",
+                "label": "Technical Support Manager",
+                "descricao": "Exemplo descricao"
+            }]
+        }]
+    }, {
+        "name" : "Alice Ozaltin",
+        "label": "Vice President of Merchandising",
+        "descricao": "Exemplo descricao",
+        "children": [{
+            "name": "Zach Kwon",
+            "label": "Director of Purchasing",
+            "descricao": "Exemplo descricao",
+            "children": [
+                {
+                    "name": "Jonathan Branham",
+                    "label": "Internal Purchasing Manager",
+                    "descricao": "Exemplo descricao"}]
+        }, {
+            "name": "Elizabeth Norman",
+            "label": "Director of Appliances",
+            "descricao": "Exemplo descricao"
+        }, {
+            "name" : "Peter Stevens",
+            "label": "Director of Clothing",
+            "descricao": "Exemplo descricao",
+            "children": [{
+                "name": "Rebecca Hammond",
+                "label": "Womens Clothing Planner",
+                "descricao": "Exemplo descricao"
+            }, {
+                "name": "Alex Kaplan",
+                "label": "Mens Clothing Planner",
+                "descricao": "Exemplo descricao"
+            }]
+        }, {
+            "name" : "Mark Hughes",
+            "label": "Product Information Coordinator",
+            "descricao": "Exemplo descricao"
+        }]
+    }]
+}]
